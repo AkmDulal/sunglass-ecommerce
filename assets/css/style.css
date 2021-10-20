@@ -884,7 +884,7 @@
 	width: 100%;
 	width: 100%;
 	background: #fff;
-	z-index: 9;
+	z-index: 9999;
 	box-shadow: 1px 1px 10px 1px rgba(0,0,0,.16);
 }
 

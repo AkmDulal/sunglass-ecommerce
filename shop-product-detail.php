@@ -25,10 +25,10 @@
                         </div>
                         <div class="product-details-thumbs slider-navigation-2">										
                             <img src="assets/images/s1.png" alt="product image thumb" />
-                            <img src="assets/images/el_img1.jpg" alt="product image thumb" />
-                            <img src="assets/images/el_img1.jpg" alt="product image thumb" />
-                            <img src="assets/images/el_img1.jpg" alt="product image thumb" />
-                            <img src="assets/images/el_img1.jpg" alt="product image thumb" />
+                            <img src="assets/images/s2.png" alt="product image thumb" />
+                            <img src="assets/images/s2.png" alt="product image thumb" />
+                            <img src="assets/images/s2.png" alt="product image thumb" />
+                            <img src="assets/images/s2.png" alt="product image thumb" />
                         </div>
                     </div>
                     <!--// Product Details Left -->

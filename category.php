@@ -53,7 +53,7 @@
                      <div class="col-md-4 col-6">
                          <div class="product">
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img1.jpg" alt="product_img1" />
                                  </a>
                                  <div class="product_action_box">
@@ -70,7 +70,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">Blue Dress For Woman 5555 </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">Blue Dress For Woman 5555 </a></h6>
                                  <div class="product_price">
                                      <span class="price">$45.00 </span>
                                      <del>$55.25 </del>
@@ -114,7 +114,7 @@
                      <div class="col-md-4 col-6">
                          <div class="product">
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img2.jpg" alt="product_img2" />
                                  </a>
                                  <div class="product_action_box">
@@ -131,7 +131,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">Lether Gray Tuxedo </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">Lether Gray Tuxedo </a></h6>
                                  <div class="product_price">
                                      <span class="price">$55.00 </span>
                                      <del>$95.00 </del>
@@ -174,7 +174,7 @@
                          <div class="product">
                              <span class="pr_flash">New </span>
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img3.jpg" alt="product_img3" />
                                  </a>
                                  <div class="product_action_box">
@@ -191,7 +191,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">woman full sliv dress </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">woman full sliv dress </a></h6>
                                  <div class="product_price">
                                      <span class="price">$68.00 </span>
                                      <del>$99.00 </del>
@@ -231,7 +231,7 @@
                      <div class="col-md-4 col-6">
                          <div class="product">
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img4.jpg" alt="product_img4" />
                                  </a>
                                  <div class="product_action_box">
@@ -248,7 +248,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">light blue Shirt </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">light blue Shirt </a></h6>
                                  <div class="product_price">
                                      <span class="price">$69.00 </span>
                                      <del>$89.00 </del>
@@ -290,7 +290,7 @@
                      <div class="col-md-4 col-6">
                          <div class="product">
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img5.jpg" alt="product_img5" />
                                  </a>
                                  <div class="product_action_box">
@@ -307,7 +307,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">blue dress for woman </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">blue dress for woman </a></h6>
                                  <div class="product_price">
                                      <span class="price">$45.00 </span>
                                      <del>$55.25 </del>
@@ -350,7 +350,7 @@
                          <div class="product">
                              <span class="pr_flash bg-danger">Hot </span>
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img6.jpg" alt="product_img6" />
                                  </a>
                                  <div class="product_action_box">
@@ -367,7 +367,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">Blue casual check shirt </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">Blue casual check shirt </a></h6>
                                  <div class="product_price">
                                      <span class="price">$55.00 </span>
                                      <del>$95.00 </del>
@@ -409,7 +409,7 @@
                          <div class="product">
                              <span class="pr_flash bg-success">Sale </span>
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img7.jpg" alt="product_img7" />
                                  </a>
                                  <div class="product_action_box">
@@ -426,7 +426,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">white black line dress </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">white black line dress </a></h6>
                                  <div class="product_price">
                                      <span class="price">$68.00 </span>
                                      <del>$99.00 </del>
@@ -468,7 +468,7 @@
                      <div class="col-md-4 col-6">
                          <div class="product">
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img8.jpg" alt="product_img8" />
                                  </a>
                                  <div class="product_action_box">
@@ -485,7 +485,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">Men blue jins Shirt </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">Men blue jins Shirt </a></h6>
                                  <div class="product_price">
                                      <span class="price">$69.00 </span>
                                      <del>$89.00 </del>
@@ -527,7 +527,7 @@
                      <div class="col-md-4 col-6">
                          <div class="product">
                              <div class="product_img">
-                                 <a href="shop-product-detail.html">
+                                 <a href="shop-product-detail.php">
                                      <img src="assets/images/product_img9.jpg" alt="product_img9" />
                                  </a>
                                  <div class="product_action_box">
@@ -544,7 +544,7 @@
                                  </div>
                              </div>
                              <div class="product_info">
-                                 <h6 class="product_title"><a href="shop-product-detail.html">T-Shirt Form Girls </a></h6>
+                                 <h6 class="product_title"><a href="shop-product-detail.php">T-Shirt Form Girls </a></h6>
                                  <div class="product_price">
                                      <span class="price">$45.00 </span>
                                      <del>$55.25 </del>

@@ -285,11 +285,12 @@ PAGE JS
 		$(".shop_container").append('<div class="loading_pr"><div class="mfp-preloader"></div></div>');
 		setTimeout(function(){
 			$('.loading_pr').remove();
-			$container.isotope('layout');
+			// $container.isotope('layout');
 		}, 800);
 	});
 	
 
+	
 	
 	/*===================================*
 	20. PRODUCT COLOR JS
@@ -420,3 +421,7 @@ PAGE JS
 	
 	
 })(jQuery);
+
+
+
+

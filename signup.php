@@ -23,7 +23,7 @@
                                  <input class="form-control" required="" type="password" name="password" placeholder="Confirm Password" />
                              </div>
                              <div class="login_footer form-group">
-                                 <div class="chek-form">
+                                 <div class="chek-form" style="margin-left: 20px;">
                                      <div class="custome-checkbox">
                                          <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox2" value="" />
                                          <label class="form-check-label" for="exampleCheckbox2"><span>I agree to terms &amp; Policy. </span></label>
